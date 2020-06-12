@@ -75,6 +75,7 @@ res
 
 
 #Question 4
+
 z_mut <-mutator (myseq = o, 100) 
 
 z_mut
